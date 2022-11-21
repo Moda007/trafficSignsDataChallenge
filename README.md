@@ -52,5 +52,5 @@ The data augmentation and model training can be found in this [notebook](./imple
   <li><a href="./data/training_results/feature_extraction">Feature extraction</a></li>
   <li><a href="./data/training_results/finetune">Fine-tuning</a></li>
   <li><a href="./data/training_results/validation">Validation</a></li>
-  <li><a href="./data/training_results/detect_test">detect_test</a></li>
+  <li><a href="./data/training_results/detect_test">Detection</a></li>
 </ul>
