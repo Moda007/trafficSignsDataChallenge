@@ -1,0 +1,37 @@
+<annotation>
+  <filename>43.jpg</filename>
+  <folder>my-project-name</folder>
+  <object>
+    <bndbox>
+      <xmax>588</xmax>
+      <xmin>539</xmin>
+      <ymax>97</ymax>
+      <ymin>43</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>f_others</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>587</xmax>
+      <xmin>539</xmin>
+      <ymax>165</ymax>
+      <ymin>112</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>b_speed_limit</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>/my-project-name/43.jpg</path>
+  <size>
+    <depth>3</depth>
+    <height>300</height>
+    <width>600</width>
+  </size>
+  <source>
+    <database>Unspecified</database>
+  </source>
+</annotation>

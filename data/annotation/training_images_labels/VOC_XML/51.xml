@@ -1,0 +1,37 @@
+<annotation>
+  <filename>51.jpg</filename>
+  <folder>my-project-name</folder>
+  <object>
+    <bndbox>
+      <xmax>599</xmax>
+      <xmin>543</xmin>
+      <ymax>139</ymax>
+      <ymin>68</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>e_no_stop_park</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <object>
+    <bndbox>
+      <xmax>43</xmax>
+      <xmin>3</xmin>
+      <ymax>149</ymax>
+      <ymin>111</ymin>
+    </bndbox>
+    <difficult>0</difficult>
+    <name>d_no_entry</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+  </object>
+  <path>/my-project-name/51.jpg</path>
+  <size>
+    <depth>3</depth>
+    <height>300</height>
+    <width>600</width>
+  </size>
+  <source>
+    <database>Unspecified</database>
+  </source>
+</annotation>
